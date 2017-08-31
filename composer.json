@@ -1,8 +1,7 @@
 {
-  "name": "buuum/typeform",
+  "name": "bpeh/typeform-api",
   "type": "library",
   "description": "Simple api for typeform",
-  "homepage": "https://github.com/buuum/typeform",
   "keywords": [
     "events",
     "event"
@@ -10,13 +9,13 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Alfons Martinez",
-      "email": "alfonsmartinezparra@gmail.com"
+      "name": "bernard peh",
+      "email": "bpeh777@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Buuum\\": "src/typeform"
+      "Bpeh\\": "src/typeform-api"
     }
   },
   "require": {

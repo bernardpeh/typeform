@@ -1,6 +1,6 @@
 <?php
 
-namespace Buuum;
+namespace Bpeh;
 
 use Curl\Curl;
 

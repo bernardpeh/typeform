@@ -4,30 +4,6 @@ Buuum -Typeform
 [![Packagist](https://poser.pugx.org/buuum/typeform/v/stable)](https://packagist.org/packages/buuum/typeform)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](#license)
 
-## Simple and extremely flexible PHP event class
-
-## Getting started
-
-You need PHP >= 5.5 to use Buuum.
-
-- [Install Buuum typeform](#install)
-
-## Install
-
-### System Requirements
-
-You need PHP >= 5.5.0 to use Buuum\Typeform but the latest stable version of PHP is recommended.
-
-### Composer
-
-Buuum is available on Packagist and can be installed using Composer:
-
-```
-composer require buuum/typeform
-```
-
-### Manually
-
 You may use your own autoloader as long as it follows PSR-0 or PSR-4 standards. Just put src directory contents in your vendor directory.
 
 ## Methods
